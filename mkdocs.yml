@@ -1,8 +1,8 @@
-site_name: HPC AI Benchmarking Orchestrator
+site_name: ClusterBench
 site_description: A modular Python orchestrator for containerized AI benchmarking on HPC clusters via SLURM
 site_author: EUMaster4HPC Challenge Team 10
-repo_url: https://github.com/ChrisKarg/team10_EUMASTER4HPC2526_challenge
-repo_name: team10_EUMASTER4HPC2526_challenge
+repo_url: https://github.com/philhippo/ClusterBench
+repo_name: ClusterBench
 
 docs_dir: docs-src
 site_dir: docs-site
@@ -109,7 +109,7 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/ChrisKarg/team10_EUMASTER4HPC2526_challenge
+      link: https://github.com/philhippo/ClusterBench
 
 extra_css:
   - stylesheets/extra.css

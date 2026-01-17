@@ -1,9 +1,15 @@
-# HPC AI Benchmarking Orchestrator
+# ClusterBench
 
 A modular Python orchestrator for running containerized AI benchmarking workloads on HPC clusters via SLURM.
 
 [![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://philhippo.github.io/ClusterBench/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+## Poster
+
+[![ClusterBench Poster](poster_preview.png)](poster.pdf)
+
+*Click the image to view the full PDF poster*
 
 ## Overview
 
@@ -19,8 +25,8 @@ Deploy and benchmark AI services on the **MeluXina supercomputer** with:
 
 ```bash
 # Install
-git clone https://github.com/ChrisKarg/team10_EUMASTER4HPC2526_challenge.git
-cd team10_EUMASTER4HPC2526_challenge
+git clone https://github.com/philhippo/ClusterBench.git
+cd ClusterBench
 pip install -r requirements.txt
 
 # Configure (edit config.yaml with your credentials)
@@ -40,13 +46,13 @@ python main.py --stop-all-services
 
 ## Documentation
 
-**[📚 Full Documentation](https://chriskarg.github.io/team10_EUMASTER4HPC2526_challenge/)**
+**[📚 Full Documentation](https://philhippo.github.io/ClusterBench/)**
 
-- [Getting Started](https://chriskarg.github.io/team10_EUMASTER4HPC2526_challenge/getting-started/overview/)
-- [Installation Guide](https://chriskarg.github.io/team10_EUMASTER4HPC2526_challenge/getting-started/installation/)
-- [CLI Reference](https://chriskarg.github.io/team10_EUMASTER4HPC2526_challenge/cli/commands/)
-- [Services Guide](https://chriskarg.github.io/team10_EUMASTER4HPC2526_challenge/services/overview/)
-- [Monitoring](https://chriskarg.github.io/team10_EUMASTER4HPC2526_challenge/monitoring/overview/)
+- [Getting Started](https://philhippo.github.io/ClusterBench/getting-started/overview/)
+- [Installation Guide](https://philhippo.github.io/ClusterBench/getting-started/installation/)
+- [CLI Reference](https://philhippo.github.io/ClusterBench/cli/commands/)
+- [Services Guide](https://philhippo.github.io/ClusterBench/services/overview/)
+- [Monitoring](https://philhippo.github.io/ClusterBench/monitoring/overview/)
 
 ## Architecture
 

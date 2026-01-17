@@ -1,6 +1,6 @@
-# HPC AI Benchmarking Orchestrator
+# ClusterBench
 
-Welcome to the HPC AI Benchmarking Orchestrator documentation.
+Welcome to the ClusterBench documentation.
 
 ## Overview
 
