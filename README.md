@@ -2,7 +2,7 @@
 
 A modular Python orchestrator for running containerized AI benchmarking workloads on HPC clusters via SLURM.
 
-[![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://chriskarg.github.io/team10_EUMASTER4HPC2526_challenge/)
+[![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://philhippo.github.io/ClusterBench/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Overview
