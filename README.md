@@ -7,7 +7,7 @@ A modular Python orchestrator for running containerized AI benchmarking workload
 
 ## Poster
 
-[![ClusterBench Poster](poster_preview.png)](poster.pdf)
+[![ClusterBench Poster](poster_preview.jpg)](poster.pdf)
 
 *Click the image to view the full PDF poster*
 
