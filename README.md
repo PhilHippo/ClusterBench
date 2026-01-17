@@ -1,6 +1,6 @@
 # ClusterBench
 
-A modular Python orchestrator for running containerized AI benchmarking workloads on HPC clusters via SLURM.
+We present a modular Python framework that abstracts these complexities through declarative YAML configurations. The system automatically orchestrates containerized services via Apptainer, manages SLURM job submission, and provides integrated real-time monitoring through a Prometheus- Grafana stack
 
 [![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://philhippo.github.io/ClusterBench/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
